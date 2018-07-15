@@ -32,3 +32,4 @@ Going to generate.php from a web browser should redirect to a new ovpn file.
 
 This system was thrown together in about 48 hours and I never had a successful data breach even though I had a bounty for it.
 
+https://sigavpn.com
