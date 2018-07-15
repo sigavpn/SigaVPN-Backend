@@ -3,14 +3,14 @@
 In hopes that others will follow in our footsteps, I'm making the backend to this opensource. 
 
 
-You will need:
-sshpass
-php
-a webserver (preferably NGINX)
-a openvpn server
-bash
-vim/nano
-SSH password (not SSH key)
+You will need:     
+sshpass         
+php    
+a webserver (preferably NGINX)    
+a openvpn server    
+bash   
+vim/nano     
+SSH password (not SSH key)    
 
 
 How to set it up: 
